@@ -1,1 +1,3 @@
-Holla this is a test file
+ideas:
+1. pacman
+2. schedual thing
