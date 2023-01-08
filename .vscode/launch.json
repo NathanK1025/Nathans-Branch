@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug webGen (webGen)",
+            "program": "${workspaceFolder:sparo288}/webGen/.build/debug/webGen",
+            "args": [],
+            "cwd": "${workspaceFolder:sparo288}/webGen",
+            "preLaunchTask": "swift: Build Debug webGen (webGen)"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release webGen (webGen)",
+            "program": "${workspaceFolder:sparo288}/webGen/.build/release/webGen",
+            "args": [],
+            "cwd": "${workspaceFolder:sparo288}/webGen",
+            "preLaunchTask": "swift: Build Release webGen (webGen)"
+        }
+    ]
+}
