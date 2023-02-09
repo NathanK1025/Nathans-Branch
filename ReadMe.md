@@ -107,14 +107,4 @@ func hollersAndPrintCount(from:String,to:String,repeated:Int){
     print(hollers(from:from,to:to,repeated:repeated))
 }
 
-```
-```swift
-```
-```swift
-```
-```swift
-```
-```swift
-```
-```swift
-```
+
