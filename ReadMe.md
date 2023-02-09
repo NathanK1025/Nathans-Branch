@@ -1,4 +1,4 @@
-```switft
+```swift
 // is it grater
 if x > y {
     print(x,"is greater than", y)
