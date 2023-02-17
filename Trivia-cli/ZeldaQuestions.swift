@@ -11,4 +11,4 @@ let zelda-q: [string] = [
   "The location in Link's Awakening is called",
   "The main location of the Legend of Zelda is",
   "The Main godess in The Legend of Zelda is",
-  
+  "
