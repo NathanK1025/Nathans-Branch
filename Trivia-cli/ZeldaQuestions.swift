@@ -42,7 +42,7 @@ let zelda: [String:String] = [
   "Urbosa":"The Gerudo Champion in Breath of the Wild",
   "Daruk":"The Goron Champion in Breath of the Wild",
   "Kakariko":"Starting village in Ocarina of Time",
-  "Left Handed":"Link is usualy",
+  "Left Hand":"Link uses which hand",
   "Wolf":"In Twilight Princess Link transforms into a",
   "Agahnim":"Ganondorf's alter ego in Link to the Past",
   "Flute":"Link's instrument in the orinal game",
