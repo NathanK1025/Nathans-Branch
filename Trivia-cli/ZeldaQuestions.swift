@@ -46,5 +46,5 @@ let zelda: [String:String] = [
   "Wolf":"In Twilight Princess Link transforms into a",
   "Agahnim":"Ganondorf's alter ego in Link to the Past",
   "Flute":"Link's instrument in the orinal game",
-  "":"",
-  "":"",
+  "Wind Waker":"Wand that Link uses in Wind Waker",
+  "Ganon":"Second for of Ganondorf in the boss fight of Ocarina of Time",
